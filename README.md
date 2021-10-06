@@ -1,5 +1,11 @@
 # streamed-response-demo
 
+## Demo code
+
+This app is a basic Symfony app created with the `symfony` CLI tool.
+
+The demo code lies in the controller actions; see [src/Controller/StreamedResponseDemoController.php](./src/Controller/StreamedResponseDemoController.php).
+
 ## Quick start
 
 ```bash
